@@ -1,4 +1,11 @@
 # 🧮 Terminal-Based Calculator
+# PROJECT LOGIC:
+-In this PROJECT it is also like a calculator we can calculate maths in this terminal.
+-The user question result will shown below.
+-If user type invalid symbols or anything then it will show errors.
+
+# PROJECT IDEA:
+-This idea came from seeing basic calculators on phones and casios it is also like them but in coding version.
 
 A minimalist calculator that mimics a terminal interface, allowing users to type math expressions and see instant results. Built using HTML, CSS, and JavaScript — runs entirely in the browser.
 
