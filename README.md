@@ -1,46 +1,111 @@
-# 🧮 Terminal-Based Calculator
-# PROJECT LOGIC:
--In this PROJECT it is also like a calculator we can calculate maths in this terminal.
--The user question result will shown below.
--If user type invalid symbols or anything then it will show errors.
+# 🖥️ Terminal Calculator – Hacker Edition
 
-# PROJECT IDEA:
--This idea came from seeing basic calculators on phones and casios it is also like them but in coding version.
+## 🔢 Smart & Interactive Terminal Style Calculator
 
-A minimalist calculator that mimics a terminal interface, allowing users to type math expressions and see instant results. Built using HTML, CSS, and JavaScript — runs entirely in the browser.
+Terminal Calculator – Hacker Edition is a modern calculator web application built using **HTML, CSS, and JavaScript**.  
+It features a futuristic hacker-style terminal UI with real-time calculations, keyboard shortcuts, command history, math functions, and smooth animations.
 
-🔧 Features
+---
 
-• Command-line-like interface
-• Supports basic math expressions (e.g. 5 + 7 * 2, (10 / 2) + 3)
-• Outputs result immediately upon pressing Enter
-• History of commands and results displayed
-• Styled like a retro terminal: 
-• Black background
-• Green input
-• Red prompt text
+# 🚀 Features
 
-📸 Demo
-![calculator](https://github.com/user-attachments/assets/258a6dfd-bc44-416e-b29f-c1c41280914c)
+## 🖥️ Real Terminal Interface
+- Hacker-style terminal UI
+- CRT screen effects
+- Animated boot sequence
+- Neon glow design
 
+---
 
-🚀 How to Use
+## 🔢 Smart Calculator Engine
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power operations
+- Percentage calculations
 
-• Open Terminal-based-calculator.html in your browser.
-• Type a math expression in the input box.
-• Press Enter to evaluate it.
-• View the result and command history below.
+---
 
-⚙️ Technologies Used
+## 🧠 Advanced Math Functions
+- Square Root
+- Power Function
+- Absolute Value
+- Floor / Ceil / Round
+- Logarithm
+- Trigonometric Functions
+- PI & Euler constants
 
-• HTML – Page structure
-• CSS – Terminal-like visual theme
-• JavaScript – Evaluates math using eval() and displays results
+---
 
-⚠️ Warning
+## ⌨️ Keyboard Shortcuts
 
-This calculator uses JavaScript's eval() function to parse expressions. While safe for local use, never expose eval() to untrusted input in production environments, as it can execute arbitrary code.
+| Key | Action |
+|---|---|
+| Enter | Evaluate Expression |
+| ↑ / ↓ | Command History |
+| Ctrl + L | Clear Screen |
 
-📜 License
+---
 
-Free to use and modify. No attribution required.
+## 📜 Command History System
+- Stores previous calculations
+- Navigate using arrow keys
+- Faster repeated calculations
+
+---
+
+## ⚠️ Error Handling
+- Invalid expression detection
+- Infinity / NaN protection
+- Safe expression evaluator
+
+---
+
+## 🎨 Modern UI Design
+- Neon hacker theme
+- Animated terminal window
+- CRT scanline effects
+- Smooth transitions & glow effects
+
+---
+
+## ⚡ Quick Action Buttons
+- √x
+- x²
+- π
+- e
+- sin()
+- cos()
+- log()
+- round()
+- clear()
+
+---
+
+## 📱 Responsive Design
+- Mobile Friendly
+- Tablet Support
+- Desktop Optimized
+- Smooth UI experience
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling & Animations |
+| JavaScript | Logic & Functionality |
+| Google Fonts | Terminal Fonts |
+
+---
+
+# 📂 Project Structure
+
+```bash
+Terminal-Calculator/
+│
+├── Terminal-Calculator.html
+└── README.md
